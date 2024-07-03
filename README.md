@@ -8,6 +8,18 @@ The task involves implementing a UI design and integrating it with an API using 
 . CSS: For styling the UI components.
 . API Context: For state management and API integration.
 
+#Setup Instructions
+
+Clone the Repository: git clone https://github.com/Jerry21082-alt/Blutech
+
+cd blutech-frontend-test
+
+Install Dependencies: npm install
+
+Run the Development Server: npm run dev
+
+Open the Project: Open http://localhost:3000 in your browser to view the project.
+
 #Features
 
 . Responsive Design: The UI is responsive and adapts to various screen sizes.
