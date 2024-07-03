@@ -74,7 +74,10 @@ export default function Nav() {
               </svg>
             </div>
           </div>
-          <Link href="/" className="text-lg md:text-[40px] font-semibold">
+          <Link
+            href="/"
+            className="text-lg md:text-[40px] font-semibold text-[#0341A7]"
+          >
             Unlimi<span className="text-red-600">.</span>
           </Link>
         </div>
