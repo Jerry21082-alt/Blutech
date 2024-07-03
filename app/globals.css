@@ -99,7 +99,9 @@ input {
 .styled-table td {
   padding: 12px 15px;
 }
-
+.styled-table td {
+  border-bottom: 1px solid #f0f0f0;
+}
 .styled-table tbody {
   background-color: #f9f9f9;
   position: relative;
@@ -179,7 +181,7 @@ input {
   0%,
   80%,
   100% {
-    transform: scale(0);
+    transform: scale(0.5);
   }
 
   40% {
